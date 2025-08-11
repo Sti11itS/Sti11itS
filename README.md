@@ -11,6 +11,7 @@ To Do:
 2025-08-11:
 - Added Profile README
 - Set up local config details and push to GitHub
+- Set up security
 
 <!--
 **Sti11itS/Sti11itS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
