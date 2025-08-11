@@ -5,9 +5,12 @@ Welcome to my profile. Finally created a profile README.
 To Do:
 * More learning with GitHub
 * Using Git on local terminal
+* Create habit
+* Clean up repos(?)
 
 2025-08-11:
 - Added Profile README
+- Set up local config details and push to GitHub
 
 <!--
 **Sti11itS/Sti11itS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
