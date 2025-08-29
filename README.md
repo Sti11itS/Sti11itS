@@ -8,6 +8,11 @@ To Do:
 * Create habit
 * Clean up repos(?)
 
+2025-08-29:
+- Created repo cplusplus_reference
+- finally got diff/patch to work
+    - diff: use absolute file paths
+
 2025-08-11:
 - Added Profile README
 - Set up local config details and push to GitHub
