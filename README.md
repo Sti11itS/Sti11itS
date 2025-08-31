@@ -8,6 +8,9 @@ To Do:
 * Create habit
 * Clean up repos(?)
 
+2025-08-31:
+- Added Errors section to cplusplus_reference repo
+
 2025-08-29:
 - Created repo cplusplus_reference
 - finally got diff/patch to work
