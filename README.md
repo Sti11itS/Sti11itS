@@ -7,6 +7,11 @@ To Do:
 * Using Git on local terminal
 * Create habit
 * Clean up repos(?)
+* Find out how to get patch to send files into target subdirectories
+
+2025-09-01:
+- Added Data Structures to cplusplus reference repo
+- Switched to rsync -av temporary
 
 2025-08-31:
 - Added Errors section to cplusplus_reference repo
