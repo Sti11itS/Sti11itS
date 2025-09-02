@@ -9,8 +9,11 @@ To Do:
 * Clean up repos(?)
 * Find out how to get patch to send files into target subdirectories
 
+2025-09-02:
+- Added Vectors notes to cplusplus_reference repo
+
 2025-09-01:
-- Added Data Structures to cplusplus reference repo
+- Added Data Structures to cplusplus_reference repo
 - Switched to rsync -av temporary
 
 2025-08-31:
